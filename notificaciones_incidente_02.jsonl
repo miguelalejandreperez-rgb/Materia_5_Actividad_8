@@ -1,2 +1,0 @@
-{"solicitudes_acumuladas": 300, "indicador": "latencia", "evento": "ACTIVACION", "prioridad": "P1", "burn_corto": 20.0, "burn_largo": 10.333, "runbook": "RB-02"}
-{"solicitudes_acumuladas": 650, "indicador": "latencia", "evento": "RECUPERACION", "prioridad": "P1", "burn_corto": 0.0, "burn_largo": 0.0, "runbook": "RB-02"}
