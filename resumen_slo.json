@@ -1,9 +1,0 @@
-{
-  "solicitudes": 500,
-  "disponibilidad": 1.0,
-  "cumplimiento_latencia": 0.996,
-  "presupuesto_errores_disponibilidad": 5.0,
-  "presupuesto_errores_latencia": 25.0,
-  "incumplimientos_latencia": 2,
-  "alertas_observadas": 0
-}
