@@ -1,7 +1,0 @@
-{
-  "n_variables": 19,
-  "psi_maximo": 0.002362187968576845,
-  "psi_mediana": 0.0009824406240866031,
-  "distancia_js_histograma_probabilidades_mismo_test": 0.0,
-  "interpretacion": "Exploratoria. PSI no mide directamente error predictivo ni activa alertas."
-}
