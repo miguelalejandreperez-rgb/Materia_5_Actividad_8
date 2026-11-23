@@ -1,5 +1,0 @@
-Actividad 8 - Gestión de proyectos de inteligencia artificial
-
-Entregables: 01_Documentos (PDF y Word), 02_Codigo (notebook Colab), 03_Configuracion_y_Runbooks, 04_Evidencia_Original y README.md.
-
-La ejecución del modelo y las simulaciones se realizaron en Google Colab. No se desplegó un servicio productivo.
